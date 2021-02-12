@@ -6,7 +6,6 @@
 
 #************************************************************************************ 
 # Purvesh Sharma
-# EE5321 – HW#3
 # Filename: ANN.py
 # Due: 10/11/19
 #
@@ -130,7 +129,7 @@ print(TestAccuracy)
 
 # Converting to the text output file
 
-with open("HW3 output.txt", "w") as text_file:
+with open("output.txt", "w") as text_file:
     text_file.write(format(TrainAccuracy))
     text_file.write(format(TestAccuracy))
     
