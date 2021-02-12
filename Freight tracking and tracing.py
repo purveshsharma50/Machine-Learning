@@ -7,7 +7,7 @@
 #************************************************************************************ 
 # Purvesh Sharma
 # EE5321 – HW#3
-# Filename: homework3-ANN.py
+# Filename: ANN.py
 # Due: 10/11/19
 #
 # Objective:
@@ -32,7 +32,7 @@ from tensorflow.keras.wrappers.scikit_learn import KerasClassifier
 
 # Reading Dataset from users saved location
 
-df = pd.read_csv('/Users/purveshsharma/Documents/TXST Study Material/Machine Learning/Anaconda files/hw3/c2k_data_comma.csv')
+df = pd.read_csv('/Users/purveshsharma/Documents/c2k_data_comma.csv')
 
 # Replacing all question marks with Nan value
 
@@ -136,15 +136,6 @@ with open("HW3 output.txt", "w") as text_file:
     
 #End of the code
 #******************************************************************************************************************
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
