@@ -6,8 +6,7 @@
 
 #************************************************************************************ 
 # Purvesh Sharma
-# EE5321 – HW#1
-# Filename: homework1-perceptron.py
+# Filename: perceptron.py
 # Due: 9/18/19
 #
 # Objective:
@@ -139,25 +138,5 @@ plt.legend(loc='upper left')
 plt.show()
 
 # End of the code           
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
