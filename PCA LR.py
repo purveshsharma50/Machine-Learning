@@ -6,8 +6,7 @@
 
 #************************************************************************************ 
 # Purvesh Sharma
-# EE5321 – HW#2
-# Filename: homework2-LogicalRegression PCA.py
+# Filename: LogicalRegression PCA.py
 # Due: 10/04/19
 #
 # Objective:
