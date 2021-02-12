@@ -1,13 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[10]:
-
-
 #************************************************************************************ 
 # Purvesh Sharma
-# EE5321 – HW#2
-# Filename: homework2-LogicalRegression LDA.py
+# Filename: LogicalRegression LDA.py
 # Due: 10/04/19
 #
 # Objective:
@@ -200,24 +196,6 @@ plt.show()
 
 
 # End of the code 
-       
-        
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
 
 
 
