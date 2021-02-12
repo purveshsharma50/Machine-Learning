@@ -6,8 +6,7 @@
 
 #************************************************************************************ 
 # Purvesh Sharma
-# EE5321 – HW#1
-# Filename: homework1-LogisticRegression.py
+# Filename: LogisticRegression.py
 # Due: 9/18/19
 #
 # Objective:
@@ -140,25 +139,5 @@ plt.show()
 
 # End of the code        
         
-        
-        
-        
-        
-        
-        
-        
-        
-        
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
 
 
