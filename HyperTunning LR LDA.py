@@ -6,7 +6,6 @@
 
 #************************************************************************************ 
 # Purvesh Sharma
-# EE5321 – HW#2
 # Filename: Hyper Tunning LogicalRegression LDA.py
 # Due: 10/04/19
 #
@@ -43,7 +42,7 @@ import os
 
 # Reading Dataset from users saved location
 
-df = pd.read_csv('/Users/purveshsharma/Documents/TXST Study Material/Machine Learning/Anaconda files/datasetcars.csv')
+df = pd.read_csv('/Users/purveshsharma/Documents/Anaconda files/datasetcars.csv')
 
 # To nominate the column
 
