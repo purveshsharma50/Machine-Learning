@@ -6,8 +6,7 @@
 
 #************************************************************************************ 
 # Purvesh Sharma
-# EE5321 – HW#1
-# Filename: homework1-SVM.py
+# Filename: SVM.py
 # Due: 9/18/19
 #
 # Objective:
@@ -142,15 +141,6 @@ plt.show()
 # End of the code   
         
         
-        
-        
-        
-        
-
-
-# In[ ]:
-
-
 
 
 
