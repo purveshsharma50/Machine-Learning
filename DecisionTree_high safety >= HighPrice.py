@@ -6,8 +6,7 @@
 
 #************************************************************************************ 
 # Purvesh Sharma
-# EE5321 – HW#1
-# Filename: homework1-DecisionTree.py
+# Filename: DecisionTree.py
 # Due: 9/18/19
 #
 # Objective:
@@ -34,7 +33,7 @@ import os
 
 # Reading Dataset from users saved location
 
-df = pd.read_csv('/Users/purveshsharma/Documents/TXST Study Material/Machine Learning/Anaconda files/datasetcars.csv')
+df = pd.read_csv('/Users/purveshsharma/Documents/datasetcars.csv')
 
 # To nominate the column
 
@@ -144,18 +143,7 @@ plt.legend(loc='upper left')
 plt.show()
         
 # End of the code        
-        
-        
-        
-        
-        
-        
-        
-        
-        
 
-
-# In[ ]:
 
 
 
