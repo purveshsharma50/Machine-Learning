@@ -4,8 +4,7 @@
 # In[11]:
 #************************************************************************************
 # Purvesh Sharma
-# EE5321 – HW#2
-# Filename: homework2-Hyper Tunning LogicalRegression LDA.py
+# Filename: Hyper Tunning LogicalRegression LDA.py
 # Due: 10/04/19
 #
 # Objective:
