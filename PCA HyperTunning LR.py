@@ -6,8 +6,8 @@
 
 #************************************************************************************ 
 # Purvesh Sharma
-# EE5321 – HW#2
-# Filename: homework2-LogicalRegression hypertunning PCA.py
+
+# Filename: LogicalRegression hypertunning PCA.py
 # Due: 10/04/19
 #
 # Objective:
@@ -131,10 +131,4 @@ with open("LR hypertunning PCA_output.txt", "w") as text_file:
     text_file.write(format(e))
     text_file.write(format(f))
     text_file.write(format(g))
-
-
-# In[ ]:
-
-
-
 
